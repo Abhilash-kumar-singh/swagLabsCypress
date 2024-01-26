@@ -1,0 +1,15 @@
+{
+  "name": "swaglabs",
+  "version": "1.0.0",
+  "description": "swaglabs cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open":"npx cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhilash Kumar Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.3"
+  }
+}

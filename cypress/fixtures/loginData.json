@@ -1,0 +1,17 @@
+[{
+  "username": "standard_user",
+  "password": " ",
+  "isLoginFail": true
+},{
+  "username": " ",
+  "password": "secret_sauce",
+  "isLoginFail": true
+},{
+  "username": " ",
+  "password": " ",
+  "isLoginFail": true
+},{
+  "username": "standard_user",
+  "password": "secret_sauce",
+  "isLoginFail": false
+}]
